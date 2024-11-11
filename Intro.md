@@ -1,7 +1,7 @@
 # Intro
 **Content**
 1- Numpy include
-2- indexing
+2- Indexing
 
 ## Numpy include
 > ``` import numpy as np ```
@@ -15,4 +15,4 @@ its good to give numpy alias as np to get used toother codes and to write code f
 
 Note: when coding with vscode, you could download bracket pair colorizer 2 plugin, this plugin will make it easier deal with multi-dim array
 
-## indexing
+## Indexing
