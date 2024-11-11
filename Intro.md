@@ -2,8 +2,9 @@
 **Content**
 1- Numpy include
 2- Indexing
+3- Dimentions
 
-## Numpy include
+## 1 Numpy include
 > ``` import numpy as np ```
 
 its good to give numpy alias as np to get used toother codes and to write code faster
@@ -15,4 +16,9 @@ its good to give numpy alias as np to get used toother codes and to write code f
 
 Note: when coding with vscode, you could download bracket pair colorizer 2 plugin, this plugin will make it easier deal with multi-dim array
 
-## Indexing
+## 2 Indexing
+1- normal indexing
+2- simplfied indexing
+## 3 Dimentions
+1- determine the dimention
+2-build the array with specified dime np.arrat([],ndim=3)
