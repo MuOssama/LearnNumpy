@@ -1,8 +1,8 @@
 # Intro
 **Content**
-1- Numpy include
-2- Indexing
-3- Dimentions
+1- **Numpy include**\
+2- **Indexing**\
+3- **Dimentions**
 
 ## 1 Numpy include
 > ``` import numpy as np ```
